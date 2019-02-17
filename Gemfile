@@ -6,7 +6,7 @@ source "https://rubygems.org"
 gem 'sinatra'
 gem 'rake'
 gem 'thin'
-gem intall shotgun
+gem 'shotgun'
 gem 'pry'
 gem 'require_all'
     
